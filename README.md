@@ -15,7 +15,7 @@ This project presents a data-driven strategy to reduce avoidable Emergency Depar
 ## 📂 Jupyter Notebook
 
 Explore the full analysis and code in the Jupyter Notebook:  
-👉 [ED Visits Analysis Notebook.ipynb](./ED%20Visits%20Analysis%20Notebook.ipynb)
+👉 📓 [View Notebooks](./notebooks/)
 
 
 The article outlines:
