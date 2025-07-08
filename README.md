@@ -9,6 +9,18 @@
 
 ---
 
+## 📑 Table of Contents
+- [📌 Project Summary](#-project-summary)
+- [🧠 Intervention Strategy Diagram](#-intervention-strategy-diagram)
+- [📄 Article](#-article)
+- [📓 Jupyter Notebook](#-jupyter-notebook)
+- [📈 Key Findings](#-key-findings)
+- [🛠️ Tools & Techniques](#-tools--techniques)
+- [🌍 Real-World Impact](#-real-world-impact)
+- [🔗 Connect](#-connect)
+
+---
+
 ## 📌 Project Summary
 
 This project presents a data-driven strategy to reduce **avoidable Emergency Department (ED) visits** among **Medicare Advantage** patients at **Mendez Medical Center**, using:
