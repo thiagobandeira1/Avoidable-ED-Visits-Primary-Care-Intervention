@@ -1,5 +1,11 @@
 # Avoidable ED Visits – Primary Care Intervention
 
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Built with Python](https://img.shields.io/badge/built%20with-Python%203.10-blue)
+![Jupyter Notebooks](https://img.shields.io/badge/format-Jupyter%20Notebook-orange)
+![Status: Complete](https://img.shields.io/badge/status-Completed-brightgreen)
+
+
 > A real-world healthcare data science project reducing unnecessary ED costs through evidence-based primary care.
 
 This project presents a data-driven strategy to reduce avoidable Emergency Department (ED) visits among Medicare Advantage patients at **Mendez Medical Center**, using:
