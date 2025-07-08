@@ -20,9 +20,11 @@ This project presents a data-driven strategy to reduce **avoidable Emergency Dep
 
 ---
 
-## 🖼️ Project Overview Diagram
+## 🗺️ Intervention Strategy Diagram
 
-![Overview](images/Overview.png)
+A high-level view of the comprehensive approach implemented at **Mendez Medical Center** to reduce avoidable ER visits:
+
+![Intervention Diagram](images/Intervention_Strategy.png)
 
 ---
 
